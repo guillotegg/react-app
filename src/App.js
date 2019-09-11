@@ -42,7 +42,7 @@
 
       render() {
         return (
-          <div className="App">
+          <div className="App centered">
               <Grid style={{ height: '500px', width: this.gridWidth }}
                     data={this.state.data.slice(this.state.skip, this.state.take + this.state.skip)}
                     skip={this.state.skip}
