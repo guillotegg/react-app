@@ -39,7 +39,7 @@ class Login extends Component {
     render() {
         return <div>
             <Window title="Log In" resizable={false} draggable={false} top={0} left={0} initialWidth={500} initialHeight={300}>
-                <div class="login">
+                <div className="login">
                     <div>
                         <Input label="username" onChange={this.updateUserName} />
                     </div>
