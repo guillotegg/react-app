@@ -52,7 +52,7 @@
                     onPageChange={this.pageChange}>
                 <GridColumn field="albumId" title="Album ID" width={this.setPercentage(10)} />
                 <GridColumn field="id" title="Photo ID" width={this.setPercentage(10)} />
-                <GridColumn field="title" title="Title" />
+                <GridColumn field="title" title="Photo Title" />
               </Grid>
           </div>
         );
