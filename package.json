@@ -4,7 +4,9 @@
   "private": true,
   "dependencies": {
     "@progress/kendo-data-query": "^1.5.2",
+    "@progress/kendo-react-buttons": "^3.4.0",
     "@progress/kendo-react-dateinputs": "^3.3.0",
+    "@progress/kendo-react-dialogs": "^3.4.0",
     "@progress/kendo-react-dropdowns": "^3.3.0",
     "@progress/kendo-react-grid": "^3.3.0",
     "@progress/kendo-react-inputs": "^3.3.0",
